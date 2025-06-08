@@ -9,13 +9,48 @@
 
 ---
 
-## 🛠️ Tools & Technologies I’m Exploring
+## 🛠️ Skill Level
 
-Some of the tools and platforms I have recently studied and worked with include:
+### 🔐 Security & SIEM
+| Skill / Tool | Level |
+|:-------------|:------|
+| Ahnlab Trusguard            | ▓▓▓▓░ 4/5 |
+| Fortinet Fortigate          | ▓▓▓▓░ 4/5 |
+| AlienVault                  | ▓▓▓▓░ 4/5 |
+| ELK Stack                   | ▓▓▓▓░ 4/5 |
+| Wazuh                       | ▓▓▓▓░ 4/5 |
+| Splunk                      | ▓▓▓░░ 3/5 |
+| Flashpoint                  | ▓▓▓░░ 3/5 |
+| Trendmicro Vision One (XDR) | ▓▓▓░░ 3/5 |
+| VMware Carbon Black         | ▓▓▓░░ 3/5 |
+| SOCRadar                    | ▓▓▓░░ 3/5 |
+| TheHive, Cortex, DFIR IRIS  | ▓▓▓░░ 3/5 |
+| MISP                        | ▓▓▓░░ 3/5 |
+| SIGMA UI                    | ▓▓▓░░ 3/5 |
+| OpenCTI, IDSTower           | ▓▓▓░░ 3/5 |
+| Cyberchef                   | ▓▓▓▓░ 4/5 |
+| SELKS, Vectr, Velociraptor  | ▓▓░░░ 2/5 |
+| Shuffle, N8N                | ▓▓▓░░ 3/5 |
 
-- **Security & SIEM:** Ahnlab Trusguard, Fortinet Fortigate, AlienVault, ELK Stack, Wazuh, Splunk, Flashpoint, XDR Trendmicro Vision One, VMware Carbon Black, SOCRadar, TheHive, Cortex, DFIR IRIS, MISP, SIGMA UI, OpenCTI, IDSTower, Cyberchef, SELKS, Vectr, Velociraptor, Shuffle, N8N, Portainer, Prometheus, Grafana, Ansible
-- **Cloud & Infrastructure:** GCP, AWS, Azure, CloudFlare, Mikrotik, Cisco, Docker, Kubernetes
-- **Other Interests:** Automation, DFIR, Threat Intelligence, Orchestration, Visualization
+### ☁️ Cloud & Infrastructure
+| Skill / Tool | Level |
+|:-------------|:------|
+| GCP          | ⭐⭐☆☆☆ |
+| AWS          | ⭐⭐☆☆☆ |
+| Azure        | ⭐⭐☆☆☆ |
+| CloudFlare   | ⭐⭐⭐⭐☆ |
+| Mikrotik     | ⭐⭐☆☆☆ |
+| Cisco        | ⭐⭐⭐☆☆ |
+| Docker       | ⭐⭐⭐⭐☆ |
+| Kubernetes   | ⭐⭐☆☆☆ |
+| Portainer    | ⭐⭐⭐⭐☆ |
+
+### ⚙️ Automation, Monitoring & Orchestration
+| Skill / Tool | Level |
+|:-------------|:------|
+| Prometheus   | ▓▓▓░░ 3/5 |
+| Grafana      | ▓▓▓░░ 3/5 |
+| Ansible      | ▓▓▓░░ 3/5 |
 
 ---
 
@@ -25,6 +60,12 @@ Some of the tools and platforms I have recently studied and worked with include:
 - Build and share open source security architectures
 - Empower and educate the next generation of Indonesian IT professionals
 - Make cybersecurity knowledge accessible to everyone
+
+---
+
+## 🎮 Play a Game: GitHub Contribution Snake
+
+![snake gif](https://github.com/wahidhendrawan/wahidhendrawan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
