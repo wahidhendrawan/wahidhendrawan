@@ -35,21 +35,21 @@
 ### ☁️ Cloud & Infrastructure
 | Skill / Tool | Level |
 |:-------------|:------|
-| GCP          | ⭐⭐☆☆☆ |
-| AWS          | ⭐⭐☆☆☆ |
-| Azure        | ⭐⭐☆☆☆ |
+| GCP          | ⭐⭐⭐☆☆ |
+| AWS          | ⭐⭐⭐☆☆ |
+| Azure        | ⭐⭐⭐☆☆ |
 | CloudFlare   | ⭐⭐⭐⭐☆ |
-| Mikrotik     | ⭐⭐☆☆☆ |
+| Mikrotik     | ⭐⭐⭐☆☆ |
 | Cisco        | ⭐⭐⭐☆☆ |
 | Docker       | ⭐⭐⭐⭐☆ |
-| Kubernetes   | ⭐⭐☆☆☆ |
+| Kubernetes   | ⭐⭐⭐☆☆ |
 | Portainer    | ⭐⭐⭐⭐☆ |
 
 ### ⚙️ Automation, Monitoring & Orchestration
 | Skill / Tool | Level |
 |:-------------|:------|
 | Prometheus   | ▓▓▓░░ 3/5 |
-| Grafana      | ▓▓▓░░ 3/5 |
+| Grafana      | ▓▓▓▓░ 4/5 |
 | Ansible      | ▓▓▓░░ 3/5 |
 
 ---
