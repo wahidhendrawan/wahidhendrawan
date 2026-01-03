@@ -19,18 +19,18 @@
 | AlienVault                  | ▓▓▓▓░ 4/5 |
 | ELK Stack                   | ▓▓▓▓░ 4/5 |
 | Wazuh                       | ▓▓▓▓░ 4/5 |
-| Splunk                      | ▓▓▓░░ 3/5 |
-| Flashpoint                  | ▓▓▓░░ 3/5 |
-| Trendmicro Vision One (XDR) | ▓▓▓░░ 3/5 |
-| VMware Carbon Black         | ▓▓▓░░ 3/5 |
-| SOCRadar                    | ▓▓▓░░ 3/5 |
-| TheHive, Cortex, DFIR IRIS  | ▓▓▓░░ 3/5 |
-| MISP                        | ▓▓▓░░ 3/5 |
-| SIGMA UI                    | ▓▓▓░░ 3/5 |
-| OpenCTI, IDSTower           | ▓▓▓░░ 3/5 |
+| Splunk                      | ▓▓▓▓░ 4/5 |
+| Flashpoint                  | ▓▓▓▓░ 4/5 |
+| Trendmicro Vision One (XDR) | ▓▓▓▓░ 4/5 |
+| VMware Carbon Black         | ▓▓▓▓░ 4/5 |
+| SOCRadar                    | ▓▓▓▓░ 4/5 |
+| TheHive, Cortex, DFIR IRIS  | ▓▓▓▓░ 4/5 |
+| MISP                        | ▓▓▓▓░ 4/5 |
+| SIGMA UI                    | ▓▓▓▓░ 4/5 |
+| OpenCTI, IDSTower           | ▓▓▓▓░ 4/5 |
 | Cyberchef                   | ▓▓▓▓░ 4/5 |
-| SELKS, Vectr, Velociraptor  | ▓▓░░░ 2/5 |
-| Shuffle, N8N                | ▓▓▓░░ 3/5 |
+| SELKS, Vectr, Velociraptor  | ▓▓▓▓░ 4/5 |
+| Shuffle, N8N                | ▓▓▓▓░ 4/5 |
 
 ### ☁️ Cloud & Infrastructure
 | Skill / Tool | Level |
@@ -48,7 +48,7 @@
 ### ⚙️ Automation, Monitoring & Orchestration
 | Skill / Tool | Level |
 |:-------------|:------|
-| Prometheus   | ▓▓▓░░ 3/5 |
+| Prometheus   | ▓▓▓▓░ 4/5 |
 | Grafana      | ▓▓▓▓░ 4/5 |
 | Ansible      | ▓▓▓░░ 3/5 |
 
