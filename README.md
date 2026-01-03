@@ -11,7 +11,7 @@
 
 ## 🛠️ Skill Level
 
-### 🔐 Security & SIEM
+### 🔐 Security & SOAR
 | Skill / Tool | Level |
 |:-------------|:------|
 | Ahnlab Trusguard            | ▓▓▓▓░ 4/5 |
