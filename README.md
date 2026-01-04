@@ -83,9 +83,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahidhendrawan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Wahid's Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidhendrawan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <a href="https://github.com/wahidhendrawan">
+    <img src="https://github-readme-stats.vercel.app/api?username=wahidhendrawan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180" alt="Wahid's GitHub Stats" />
+  </a>
+  <a href="https://github.com/wahidhendrawan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidhendrawan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
@@ -95,7 +98,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <small>Profile updated automatically by GitHub Actions</small>
-</div>
