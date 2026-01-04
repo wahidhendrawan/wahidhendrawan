@@ -3,22 +3,13 @@
   # 👋 Hi, I'm Wahid Hendrawan!
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Head+of+Cyber+Security+Team;System+Engineer+%26+Architect;Digital+Forensics+Specialist;Automation+Engineer;Educator+for+Indonesia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Head+of+Cyber+Security+Team;System+Engineer+%26+Architect;Digital+Forensics+Specialist;Automation+Engineer;Educator+for+Indonesia" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <p>
     <em>"The spirit of learning and teaching is ingrained. I am passionate about developing <strong>Low Cost Security Architectures</strong> and sharing knowledge for the advancement of Indonesian education."</em>
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/wahid-hendrawan-398385176/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
   </p>
 
 </div>
