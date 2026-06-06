@@ -3,7 +3,7 @@
   # 👋 Hi, I'm Wahid Hendrawan!
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Head+of+Cyber+Security+Team;System+Engineer+%26+Architect;Digital+Forensics+Specialist;Automation+Engineer;Educator+for+Indonesia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Head+of+Cyber+Security+Team;Security+Researcher+%26+Architect;Digital+Forensics+%26+Incident+Response;Threat+Hunter+%26+CTI+Analyst;Educator+for+Indonesia" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -11,6 +11,16 @@
   <p>
     <em>"The spirit of learning and teaching is ingrained. I am passionate about developing <strong>Low Cost Security Architectures</strong> and sharing knowledge for the advancement of Indonesian education."</em>
   </p>
+
+  <a href="https://www.linkedin.com/in/wahid-hendrawan-398385176/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wahidhendrawan.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/wahidhendrawan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
 </div>
 
@@ -25,6 +35,71 @@ I usually act as a **Blue Team** specialist, but I constantly expand my horizon.
 * 🔍 **Digital Forensics on Corporate**
 * 👨‍🏫 **Trainer Cyber Security on BUMN**
 * ⚙️ **Automation Engineer**
+
+---
+
+## ⭐ Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Detection-Rules</h3>
+      <p align="center">
+        <a href="https://github.com/wahidhendrawan/Detection-Rules">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahidhendrawan&repo=Detection-Rules&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Detection-Rules" />
+        </a>
+      </p>
+      <p align="center">
+        Cross-platform detection rules library — <b>836 rules</b>, <b>9 platforms</b>,
+        <b>152 MITRE ATT&CK techniques</b>. Sigma · Elastic · Splunk · Sentinel ·
+        Wazuh · Carbon Black · CrowdStrike · SentinelOne · Falco.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔬 Forensis</h3>
+      <p align="center">
+        <a href="https://github.com/wahidhendrawan/Forensis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahidhendrawan&repo=Forensis&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Forensis" />
+        </a>
+      </p>
+      <p align="center">
+        Threat analysis & digital forensics platform — log/network analyzers,
+        memory triage, playbook helper, Sigma correlation, and MFA-enabled
+        administration.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐳 ThreatDock</h3>
+      <p align="center">
+        <a href="https://github.com/wahidhendrawan/ThreatDock">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahidhendrawan&repo=ThreatDock&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="ThreatDock" />
+        </a>
+      </p>
+      <p align="center">
+        A centralized, containerized platform for <b>threat intelligence</b> and
+        <b>security operation management</b>.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 More</h3>
+      <p align="center">
+        Explore the rest of my open-source work — YARA→Sigma WebUI, IaC WebApps,
+        VulnBoard, and security lab setups.
+      </p>
+      <p align="center">
+        <a href="https://github.com/wahidhendrawan?tab=repositories">
+          <img src="https://img.shields.io/badge/View_All_Repositories-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -88,21 +163,67 @@ I usually act as a **Blue Team** specialist, but I constantly expand my horizon.
 
 ---
 
+## 🎓 Certifications & Training
+
+> _The list below mirrors my [LinkedIn profile](https://www.linkedin.com/in/wahid-hendrawan-398385176/) — see there for the most up-to-date credentials._
+
+<!--
+  TODO: Add your verified certifications here, e.g.:
+  - 🛡️ Certified SOC Analyst (CSA)
+  - 🔍 GIAC Certified Forensic Analyst (GCFA)
+  - ☁️ AWS Certified Security – Specialty
+  Format suggestion:
+-->
+
+| Domain | Credential |
+|---|---|
+| Blue Team / SOC | _Add from LinkedIn_ |
+| Digital Forensics (DFIR) | _Add from LinkedIn_ |
+| Cloud Security | _Add from LinkedIn_ |
+| Threat Intelligence | _Add from LinkedIn_ |
+
+🔗 **Full credential list:** [linkedin.com/in/wahid-hendrawan-398385176](https://www.linkedin.com/in/wahid-hendrawan-398385176/)
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/wahidhendrawan">
-    <img src="https://github-readme-stats.vercel.app/api?username=wahidhendrawan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=update_v3" height="180" alt="Wahid's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wahidhendrawan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&v=update_v4" height="180" alt="Wahid's GitHub Stats" />
   </a>
   <a href="https://github.com/wahidhendrawan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidhendrawan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=update_v3" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidhendrawan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&v=update_v4" height="180" alt="Top Languages" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahidhendrawan&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./dist/github-contribution-grid-snake.svg" alt="snake contribution" width="850"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahidhendrawan/wahidhendrawan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahidhendrawan/wahidhendrawan/output/github-contribution-grid-snake.svg" />
+    <img alt="snake contribution" src="https://raw.githubusercontent.com/wahidhendrawan/wahidhendrawan/output/github-contribution-grid-snake.svg" width="850" />
+  </picture>
 </div>
 
 ---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+I'm always open to discussing **Blue Team operations**, **SOC Engineering**, **Threat Hunting**, and **DFIR**.
+
+<a href="https://www.linkedin.com/in/wahid-hendrawan-398385176/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://wahidhendrawan.onrender.com/">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-2F81F7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
