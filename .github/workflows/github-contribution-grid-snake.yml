@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Contribution Game
 
 on:
   schedule:
@@ -11,20 +11,27 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-game
+  cancel-in-progress: true
+
 jobs:
   generate:
+    name: Build contribution animation
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
-      - name: Generate snake animations
+      - name: Generate light and dark variants
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-ocean.gif?color_snake=#38bdf8&color_dots=#0f172a,#164e63,#0891b2,#22d3ee,#a5f3fc
 
-      - name: Push to output branch
+      - name: Publish generated animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
