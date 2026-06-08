@@ -1,0 +1,64 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Cyber defense operations banner</title>
+  <desc id="desc">A dark cyber operations banner with terminal panels, signal lines, and security telemetry.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#052E2B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.52" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#1E293B" stroke-width="1" opacity="0.55"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)" opacity="0.9"/>
+  <path d="M0 282C146 229 240 302 382 252C536 198 595 96 742 122C880 146 932 263 1200 178" stroke="url(#accent)" stroke-width="3" opacity="0.85" filter="url(#glow)"/>
+  <path d="M0 315C170 260 274 331 427 290C592 246 658 165 814 184C946 200 1013 286 1200 234" stroke="#38BDF8" stroke-width="1.5" opacity="0.45"/>
+
+  <g opacity="0.95">
+    <rect x="72" y="66" width="338" height="206" rx="14" fill="#020617" stroke="#1E293B"/>
+    <rect x="72" y="66" width="338" height="42" rx="14" fill="#0F172A"/>
+    <circle cx="99" cy="87" r="6" fill="#EF4444"/>
+    <circle cx="121" cy="87" r="6" fill="#F59E0B"/>
+    <circle cx="143" cy="87" r="6" fill="#22C55E"/>
+    <text x="96" y="142" fill="#38BDF8" font-family="Consolas, monospace" font-size="18">defense@ops:~$ hunt --ioc</text>
+    <text x="96" y="176" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">sigma: mapped</text>
+    <text x="96" y="205" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">dfir: triage ready</text>
+    <text x="96" y="234" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">cti: enrichment active</text>
+  </g>
+
+  <g>
+    <rect x="790" y="70" width="328" height="218" rx="16" fill="#020617" stroke="#1E293B"/>
+    <text x="822" y="112" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Security Telemetry</text>
+    <rect x="822" y="139" width="234" height="12" rx="6" fill="#1E293B"/>
+    <rect x="822" y="139" width="188" height="12" rx="6" fill="#38BDF8"/>
+    <rect x="822" y="173" width="234" height="12" rx="6" fill="#1E293B"/>
+    <rect x="822" y="173" width="154" height="12" rx="6" fill="#22C55E"/>
+    <rect x="822" y="207" width="234" height="12" rx="6" fill="#1E293B"/>
+    <rect x="822" y="207" width="118" height="12" rx="6" fill="#F97316"/>
+    <text x="822" y="254" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Detection engineering / DFIR / CTI</text>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle cx="560" cy="120" r="5" fill="#38BDF8"/>
+    <circle cx="640" cy="184" r="5" fill="#22C55E"/>
+    <circle cx="724" cy="102" r="5" fill="#F97316"/>
+    <path d="M560 120L640 184L724 102" stroke="#64748B" stroke-width="2"/>
+  </g>
+
+  <text x="72" y="328" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Blue Team Lead Â· Security Architect Â· DFIR Â· Threat Intelligence</text>
+</svg>
