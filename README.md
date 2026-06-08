@@ -2,7 +2,7 @@
   <img src="./assets/cyber-ops-banner.svg" alt="Cyber defense operations banner" width="100%" />
 
   <h1>Wahid Hendrawan</h1>
-  <h3>Blue Team Lead · Security Architect · DFIR · Threat Intelligence</h3>
+  <h3>Blue Team Lead · Security Architect · DFIR · Threat Hunting & Intelligence</h3>
 
   <p>
     I build practical security operations capabilities: detection engineering, incident response,
