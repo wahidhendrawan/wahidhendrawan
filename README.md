@@ -1,49 +1,48 @@
 <div align="center">
+  <img src="./assets/cyber-ops-banner.svg" alt="Cyber defense operations banner" width="100%" />
 
-<img src="./assets/cyber-ops-banner.svg" alt="Cyber defense operations banner" width="100%" />
+  <h1>Wahid Hendrawan</h1>
+  <h3>Blue Team Lead · Security Architect · DFIR · Threat Intelligence</h3>
 
-# Wahid Hendrawan
+  <p>
+    I build practical security operations capabilities: detection engineering, incident response,
+    threat intelligence workflows, DFIR tooling, and low-cost security architecture for teams that
+    need security outcomes they can deploy, inspect, and maintain.
+  </p>
 
-**Blue Team Lead | Security Architect | DFIR | Threat Intelligence**
-
-I build practical security operations capabilities: detection engineering, incident response,
-threat intelligence workflows, DFIR tooling, and low-cost security architecture for teams that
-need security outcomes they can deploy, inspect, and maintain.
-
-<p>
-  <a href="https://www.linkedin.com/in/wahid-hendrawan-398385176/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wahidhendrawan.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/wahidhendrawan?tab=repositories">
-    <img src="https://img.shields.io/badge/Open_Source-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-  </a>
-</p>
-
+  <p>
+    <a href="https://www.linkedin.com/in/wahid-hendrawan-398385176/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://wahidhendrawan.onrender.com/">
+      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/wahidhendrawan?tab=repositories">
+      <img src="https://img.shields.io/badge/Open_Source-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## Operator Snapshot
+## 👋 Operator Snapshot
 
 | Area | Current Focus |
 |---|---|
-| Security Operations | SOC engineering, alert triage, case workflow, response playbooks |
-| Detection Engineering | Sigma, SIEM/XDR content, MITRE ATT&CK mapping, multi-platform rules |
-| DFIR | Log analysis, forensic triage, incident reconstruction, investigation tooling |
-| Threat Intelligence | IOC enrichment, CVE prioritization, OSINT collection, operational reporting |
-| Automation | Python, JavaScript, Docker, API integration, practical security architecture |
+| 🛡️ Security Operations | SOC engineering, alert triage, case workflow, response playbooks |
+| 🎯 Detection Engineering | Sigma, SIEM/XDR content, MITRE ATT&CK mapping, multi-platform rules |
+| 🧪 DFIR | Log analysis, forensic triage, incident reconstruction, investigation tooling |
+| 🛰️ Threat Intelligence | IOC enrichment, CVE prioritization, OSINT collection, operational reporting |
+| ⚙️ Automation | Python, JavaScript, Docker, API integration, practical security architecture |
 
 ---
 
-## Mission Board
+## 🚀 Mission Board
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Detection-Rules</h3>
+      <h3>🧭 Detection-Rules</h3>
       <p>Cross-platform detection library for Sigma, Elastic, Splunk, Sentinel, Wazuh, Carbon Black, CrowdStrike, SentinelOne, and Falco.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/Detection-Rules"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Detection-Rules repository" /></a>
@@ -51,7 +50,7 @@ need security outcomes they can deploy, inspect, and maintain.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>YARA to Sigma WebUI</h3>
+      <h3>🔁 YARA to Sigma WebUI</h3>
       <p>Converter for turning YARA rules into Sigma rules and native SIEM/EDR queries with CLI, web UI, Docker support, and tested conversion paths.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/yara-sigma-webui"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="YARA to Sigma repository" /></a>
@@ -61,7 +60,7 @@ need security outcomes they can deploy, inspect, and maintain.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>ThreatDock</h3>
+      <h3>🛰️ ThreatDock</h3>
       <p>Threat intelligence and security operations dashboard for advisories, CVEs, IOCs, alert context, and case workflows.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/ThreatDock"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="ThreatDock repository" /></a>
@@ -69,7 +68,7 @@ need security outcomes they can deploy, inspect, and maintain.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Forensis</h3>
+      <h3>🔎 Forensis</h3>
       <p>Threat analysis and digital forensics platform with log and network analyzers, memory triage, Sigma correlation, and MFA-enabled administration.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/Forensis"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Forensis repository" /></a>
@@ -81,7 +80,7 @@ need security outcomes they can deploy, inspect, and maintain.
 
 ---
 
-## Arsenal
+## 🧰 Arsenal
 
 <div align="center">
 
@@ -107,19 +106,7 @@ need security outcomes they can deploy, inspect, and maintain.
 
 ---
 
-## Contribution Game
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahidhendrawan/wahidhendrawan/output/github-contribution-grid-snake-ocean.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahidhendrawan/wahidhendrawan/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution game animation" src="https://raw.githubusercontent.com/wahidhendrawan/wahidhendrawan/output/github-contribution-grid-snake-ocean.gif" width="900" />
-  </picture>
-</div>
-
----
-
-## Current Direction
+## 📌 Current Direction
 
 - Publishing reusable detection engineering content.
 - Improving practical SOC and CTI tooling for small and medium security teams.
@@ -128,7 +115,15 @@ need security outcomes they can deploy, inspect, and maintain.
 
 ---
 
-## Connect
+## 🐍 Contribution Game
+
+<div align="center">
+  <img alt="GitHub contribution snake" src="./dist/github-contribution-grid-snake.svg" width="900" />
+</div>
+
+---
+
+## 🤝 Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wahid-hendrawan-398385176/">
