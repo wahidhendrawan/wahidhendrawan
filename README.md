@@ -36,6 +36,7 @@
 | 🛰️ Threat Intelligence | IOC enrichment, CVE prioritization, OSINT collection, operational reporting |
 | 🏗️ Security Architecture | Low-cost security architecture, platform integration, defense capability roadmaps |
 | ⚙️ Automation | Python, JavaScript, Docker, API integration, SOAR workflow automation |
+| ☁️ Cloud Security | AWS/Azure/GCP hardening, Kubernetes, compliance automation, IaC security |
 
 ---
 
@@ -44,37 +45,73 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧭 Detection-Rules</h3>
-      <p>Cross-platform detection library for Sigma, Elastic, Splunk, Sentinel, Wazuh, Carbon Black, CrowdStrike, SentinelOne, and Falco.</p>
+      <h3>🔒 Automation-Hardening</h3>
+      <p>Cross-platform security baseline auditing and controlled remediation for Linux, macOS, Windows, FreeBSD, Alpine, AWS, Azure, GCP, Kubernetes, Docker, and more. Audit → Plan → Apply → Rollback.</p>
       <p>
-        <a href="https://github.com/wahidhendrawan/Detection-Rules"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Detection-Rules repository" /></a>
-        <img src="https://img.shields.io/badge/Detection_Engineering-2563EB?style=for-the-badge" alt="Detection engineering" />
+        <a href="https://github.com/wahidhendrawan/Automation-Hardening"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Automation-Hardening" /></a>
+        <a href="https://wahidhendrawan.github.io/Automation-Hardening/"><img src="https://img.shields.io/badge/Live_Docs-16A34A?style=for-the-badge" alt="Documentation" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔁 YARA to Sigma WebUI</h3>
-      <p>Converter for turning YARA rules into Sigma rules and native SIEM/EDR queries with CLI, web UI, Docker support, and tested conversion paths.</p>
+      <h3>🧭 Detection-Rules</h3>
+      <p>Cross-platform detection library — 836 rules, 9 platforms, 152 MITRE ATT&CK techniques. Sigma · Elastic · Splunk · Sentinel · Wazuh · Carbon Black · CrowdStrike · SentinelOne · Falco.</p>
       <p>
-        <a href="https://github.com/wahidhendrawan/yara-sigma-webui"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="YARA to Sigma repository" /></a>
-        <img src="https://img.shields.io/badge/YARA_to_Sigma-7C3AED?style=for-the-badge" alt="YARA to Sigma" />
+        <a href="https://github.com/wahidhendrawan/Detection-Rules"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Detection-Rules" /></a>
+        <img src="https://img.shields.io/badge/Detection_Engineering-2563EB?style=for-the-badge" alt="Detection engineering" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛰️ ThreatDock</h3>
-      <p>Threat intelligence and security operations dashboard for advisories, CVEs, IOCs, alert context, and case workflows.</p>
+      <h3>🔁 YARA Sigma Studio</h3>
+      <p>Convert YARA rules to Sigma detections and native SIEM/EDR queries with .yar import, IOC classification, MITRE ATT&CK tagging, CLI, API, and Docker.</p>
       <p>
-        <a href="https://github.com/wahidhendrawan/ThreatDock"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="ThreatDock repository" /></a>
+        <a href="https://github.com/wahidhendrawan/yara-sigma-webui"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="YARA Sigma Studio" /></a>
+        <img src="https://img.shields.io/badge/YARA_to_Sigma-7C3AED?style=for-the-badge" alt="YARA to Sigma" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ ThreatDock</h3>
+      <p>Centralized threat intelligence and security operations platform for advisories, CVEs, IOCs, alert context, and case workflows.</p>
+      <p>
+        <a href="https://github.com/wahidhendrawan/ThreatDock"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="ThreatDock" /></a>
         <img src="https://img.shields.io/badge/Threat_Intel-0891B2?style=for-the-badge" alt="Threat intelligence" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🔎 Forensis</h3>
       <p>Threat analysis and digital forensics platform with log and network analyzers, memory triage, Sigma correlation, and MFA-enabled administration.</p>
       <p>
-        <a href="https://github.com/wahidhendrawan/Forensis"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Forensis repository" /></a>
+        <a href="https://github.com/wahidhendrawan/Forensis"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Forensis" /></a>
         <img src="https://img.shields.io/badge/DFIR-DC2626?style=for-the-badge" alt="DFIR" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 GolekThreat</h3>
+      <p>Threat hunting playbook engine for repeatable hunts, evidence tracking, ATT&CK coverage analysis, and analyst-ready reports.</p>
+      <p>
+        <a href="https://github.com/wahidhendrawan/GolekThreat"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="GolekThreat" /></a>
+        <img src="https://img.shields.io/badge/Threat_Hunting-F59E0B?style=for-the-badge" alt="Threat Hunting" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 VulnBoard</h3>
+      <p>Vulnerability management dashboard for tracking, prioritizing, and visualizing security findings across teams.</p>
+      <p>
+        <a href="https://github.com/wahidhendrawan/VulnBoard"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="VulnBoard" /></a>
+        <img src="https://img.shields.io/badge/Vuln_Management-EA580C?style=for-the-badge" alt="Vulnerability Management" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ IaC WebApps</h3>
+      <p>The Ultimate Multi-IaC Visual Platform. Design infrastructure visually and generate code for Terraform, OpenTofu, Pulumi, or Helm with real-time pricing.</p>
+      <p>
+        <a href="https://github.com/wahidhendrawan/iac-webapps"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="IaC WebApps" /></a>
+        <img src="https://img.shields.io/badge/Infrastructure_as_Code-6366F1?style=for-the-badge" alt="IaC" />
       </p>
     </td>
   </tr>
@@ -105,7 +142,6 @@
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=flat-square&logo=wazuh&logoColor=white)
 ![Sigma](https://img.shields.io/badge/Sigma-2D3748?style=flat-square)
-![SIGMA UI](https://img.shields.io/badge/SIGMA_UI-2563EB?style=flat-square)
 ![Shuffle](https://img.shields.io/badge/Shuffle-7C3AED?style=flat-square)
 ![TheHive](https://img.shields.io/badge/TheHive-F5C518?style=flat-square)
 ![Cortex](https://img.shields.io/badge/Cortex-111827?style=flat-square)
@@ -118,7 +154,6 @@
 ![SOCRadar](https://img.shields.io/badge/SOCRadar-0891B2?style=flat-square)
 ![Flashpoint](https://img.shields.io/badge/Flashpoint-F97316?style=flat-square)
 ![Recorded Future](https://img.shields.io/badge/Recorded_Future-111827?style=flat-square)
-![Decyfir](https://img.shields.io/badge/Decyfir-7C3AED?style=flat-square)
 ![OpenCTI](https://img.shields.io/badge/OpenCTI-001529?style=flat-square)
 ![OpenBAS](https://img.shields.io/badge/OpenBAS-0F172A?style=flat-square)
 ![MISP](https://img.shields.io/badge/MISP-222222?style=flat-square)
@@ -133,6 +168,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
