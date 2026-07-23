@@ -51,53 +51,51 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🛡️ PagerWesi</h3>
-      <p>Cross-platform security baseline auditing and controlled remediation — Linux, macOS, Windows, FreeBSD, AWS, Azure, GCP, Kubernetes, Docker, Terraform, TLS. HTML reports, CIS compliance scoring.</p>
+      <p>Cross-platform security baseline auditing and controlled remediation — Linux, macOS, Windows, FreeBSD, AWS, Azure, GCP, K8s, Docker, Terraform. HTML reports, CIS compliance scoring.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/PagerWesi"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="PagerWesi" /></a>
         <a href="https://wahidhendrawan.github.io/PagerWesi/"><img src="https://img.shields.io/badge/Live_Docs-16A34A?style=for-the-badge" alt="Documentation" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🧭 Detection-Rules</h3>
-      <p>Cross-platform detection library — 836 rules, 9 platforms, 152 MITRE ATT&CK techniques. Sigma · Elastic · Splunk · Sentinel · Wazuh · Carbon Black · CrowdStrike · SentinelOne · Falco.</p>
+      <p>836 rules, 9 platforms, 152 MITRE ATT&CK techniques. Sigma · Elastic · Splunk · Sentinel · Wazuh · Carbon Black · CrowdStrike · SentinelOne · Falco.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/Detection-Rules"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Detection-Rules" /></a>
         <img src="https://img.shields.io/badge/Detection_Engineering-2563EB?style=for-the-badge" alt="Detection engineering" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🔁 YARA Sigma Studio</h3>
-      <p>Convert YARA rules to Sigma detections and native SIEM/EDR queries with .yar import, IOC classification, MITRE ATT&CK tagging, CLI, API, and Docker.</p>
+      <p>Convert YARA rules to Sigma detections and native SIEM/EDR queries. IOC classification, MITRE ATT&CK tagging, CLI, API, Docker Compose.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/yara-sigma-webui"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="YARA Sigma Studio" /></a>
         <img src="https://img.shields.io/badge/YARA_to_Sigma-7C3AED?style=for-the-badge" alt="YARA to Sigma" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>🛰️ ThreatDock</h3>
-      <p>Centralized threat intelligence and security operations platform for advisories, CVEs, IOCs, alert context, and case workflows. MISP, Slack, Teams, Telegram integrated.</p>
+      <p>Centralized threat intelligence & security operations platform. MISP integration, Slack/Teams/Telegram webhooks, IOC registry, STIX export.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/ThreatDock"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="ThreatDock" /></a>
         <img src="https://img.shields.io/badge/Threat_Intel-0891B2?style=for-the-badge" alt="Threat intelligence" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🔎 Forensis</h3>
-      <p>Threat analysis and digital forensics platform with log and network analyzers, memory triage, Sigma correlation, YARA engine, and MFA-enabled administration.</p>
+      <p>DFIR platform — log & network analyzers, memory triage, Sigma/YARA correlation engine, MFA, Velociraptor integration-ready.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/Forensis"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Forensis" /></a>
         <img src="https://img.shields.io/badge/DFIR-DC2626?style=for-the-badge" alt="DFIR" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🎯 GolekThreat</h3>
-      <p>Threat hunting playbook engine for repeatable hunts, evidence tracking, ATT&CK coverage analysis, and analyst-ready reports. Navigator JSON export.</p>
+      <p>Threat hunting playbook engine. Repeatable hunts, evidence tracking, ATT&CK Navigator JSON export, analyst-ready Markdown reports.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/GolekThreat"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="GolekThreat" /></a>
         <img src="https://img.shields.io/badge/Threat_Hunting-F59E0B?style=for-the-badge" alt="Threat Hunting" />
@@ -105,25 +103,25 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>📊 VulnBoard</h3>
-      <p>VAPT Report & Engagement Dashboard. Import Burp, ZAP, Nmap, Nessus, Nuclei. PDF reports with OWASP, PCI DSS, NIST CSF, ISO 27001 frameworks.</p>
+      <p>VAPT Report Dashboard. Import Burp, ZAP, Nmap, Nessus, Nuclei. PDF reports — OWASP, PCI DSS 4.0, NIST CSF, ISO 27001 frameworks.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/VulnBoard"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="VulnBoard" /></a>
         <img src="https://img.shields.io/badge/Vuln_Management-EA580C?style=for-the-badge" alt="Vulnerability Management" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🏗️ IaC WebApps</h3>
-      <p>Visual Multi-IaC platform — design infrastructure and generate Terraform, OpenTofu, Pulumi, or Helm. AI Copilot, cost estimator, security scanner built-in.</p>
+      <p>Visual Multi-IaC designer — generate Terraform, OpenTofu, Pulumi, or Helm. AI Copilot (DeepSeek/GPT), cost estimator, security scanner.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/iac-webapps"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="IaC WebApps" /></a>
         <img src="https://img.shields.io/badge/Infrastructure_as_Code-6366F1?style=for-the-badge" alt="IaC" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🐳 DVWA Compose</h3>
-      <p>DVWA Docker Compose with Nginx TLS, multi-arch (x86_64 + ARM). Difficulty toggle, optional Wazuh SIEM agent for security monitoring and training.</p>
+      <p>DVWA lab with Nginx TLS, multi-arch (x86_64 + ARM). Difficulty toggle, optional Wazuh SIEM agent for security training.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/dvwa-compose"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="DVWA Compose" /></a>
         <img src="https://img.shields.io/badge/Pentest_Lab-EF4444?style=for-the-badge" alt="Pentest Lab" />
