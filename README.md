@@ -21,6 +21,13 @@
       <img src="https://img.shields.io/badge/Open_Source-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
     </a>
   </p>
+
+  <br/>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=wahidhendrawan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidhendrawan&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  </p>
 </div>
 
 ---
@@ -40,16 +47,16 @@
 
 ---
 
-## 🚀 Mission Board
+## 🚀 Mission Board — 9 Open Source Security Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔒 Automation-Hardening</h3>
-      <p>Cross-platform security baseline auditing and controlled remediation for Linux, macOS, Windows, FreeBSD, Alpine, AWS, Azure, GCP, Kubernetes, Docker, and more. Audit → Plan → Apply → Rollback.</p>
+      <h3>🛡️ PagerWesi</h3>
+      <p>Cross-platform security baseline auditing and controlled remediation — Linux, macOS, Windows, FreeBSD, AWS, Azure, GCP, Kubernetes, Docker, Terraform, TLS. HTML reports, CIS compliance scoring.</p>
       <p>
-        <a href="https://github.com/wahidhendrawan/Automation-Hardening"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Automation-Hardening" /></a>
-        <a href="https://wahidhendrawan.github.io/Automation-Hardening/"><img src="https://img.shields.io/badge/Live_Docs-16A34A?style=for-the-badge" alt="Documentation" /></a>
+        <a href="https://github.com/wahidhendrawan/PagerWesi"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="PagerWesi" /></a>
+        <a href="https://wahidhendrawan.github.io/PagerWesi/"><img src="https://img.shields.io/badge/Live_Docs-16A34A?style=for-the-badge" alt="Documentation" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -72,7 +79,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛰️ ThreatDock</h3>
-      <p>Centralized threat intelligence and security operations platform for advisories, CVEs, IOCs, alert context, and case workflows.</p>
+      <p>Centralized threat intelligence and security operations platform for advisories, CVEs, IOCs, alert context, and case workflows. MISP, Slack, Teams, Telegram integrated.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/ThreatDock"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="ThreatDock" /></a>
         <img src="https://img.shields.io/badge/Threat_Intel-0891B2?style=for-the-badge" alt="Threat intelligence" />
@@ -82,7 +89,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🔎 Forensis</h3>
-      <p>Threat analysis and digital forensics platform with log and network analyzers, memory triage, Sigma correlation, and MFA-enabled administration.</p>
+      <p>Threat analysis and digital forensics platform with log and network analyzers, memory triage, Sigma correlation, YARA engine, and MFA-enabled administration.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/Forensis"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Forensis" /></a>
         <img src="https://img.shields.io/badge/DFIR-DC2626?style=for-the-badge" alt="DFIR" />
@@ -90,7 +97,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🎯 GolekThreat</h3>
-      <p>Threat hunting playbook engine for repeatable hunts, evidence tracking, ATT&CK coverage analysis, and analyst-ready reports.</p>
+      <p>Threat hunting playbook engine for repeatable hunts, evidence tracking, ATT&CK coverage analysis, and analyst-ready reports. Navigator JSON export.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/GolekThreat"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="GolekThreat" /></a>
         <img src="https://img.shields.io/badge/Threat_Hunting-F59E0B?style=for-the-badge" alt="Threat Hunting" />
@@ -100,7 +107,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>📊 VulnBoard</h3>
-      <p>Vulnerability management dashboard for tracking, prioritizing, and visualizing security findings across teams.</p>
+      <p>VAPT Report & Engagement Dashboard. Import Burp, ZAP, Nmap, Nessus, Nuclei. PDF reports with OWASP, PCI DSS, NIST CSF, ISO 27001 frameworks.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/VulnBoard"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="VulnBoard" /></a>
         <img src="https://img.shields.io/badge/Vuln_Management-EA580C?style=for-the-badge" alt="Vulnerability Management" />
@@ -108,14 +115,38 @@
     </td>
     <td width="50%" valign="top">
       <h3>🏗️ IaC WebApps</h3>
-      <p>The Ultimate Multi-IaC Visual Platform. Design infrastructure visually and generate code for Terraform, OpenTofu, Pulumi, or Helm with real-time pricing.</p>
+      <p>Visual Multi-IaC platform — design infrastructure and generate Terraform, OpenTofu, Pulumi, or Helm. AI Copilot, cost estimator, security scanner built-in.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/iac-webapps"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="IaC WebApps" /></a>
         <img src="https://img.shields.io/badge/Infrastructure_as_Code-6366F1?style=for-the-badge" alt="IaC" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🐳 DVWA Compose</h3>
+      <p>DVWA Docker Compose with Nginx TLS, multi-arch (x86_64 + ARM). Difficulty toggle, optional Wazuh SIEM agent for security monitoring and training.</p>
+      <p>
+        <a href="https://github.com/wahidhendrawan/dvwa-compose"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="DVWA Compose" /></a>
+        <img src="https://img.shields.io/badge/Pentest_Lab-EF4444?style=for-the-badge" alt="Pentest Lab" />
+      </p>
+    </td>
   </tr>
 </table>
+
+---
+
+## ⚡ Quick Stats
+
+<div align="center">
+
+| Metric | Value |
+|---|---|
+| 🔰 Public Repositories | **9** |
+| 🛡️ Security Projects | **Detection · DFIR · Intel · Hardening · Pentest** |
+| 📏 Detection Rules | **836 rules · 9 platforms** |
+| 🗺️ MITRE ATT&CK | **152 techniques mapped** |
+| 🌐 Languages | Python · TypeScript · JavaScript · Shell |
+
+</div>
 
 ---
 
