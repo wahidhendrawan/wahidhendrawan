@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wahid Hendrawan — Open Source Security Toolkit</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#0f172a;color:#e2e8f0;line-height:1.6}
+.container{max-width:1100px;margin:0 auto;padding:2rem}
+h1{font-size:2.5rem;color:#38bdf8;text-align:center;margin-bottom:.5rem}
+.subtitle{text-align:center;color:#94a3b8;font-size:1.1rem;margin-bottom:3rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:1.5rem}
+.card{background:#1e293b;border:1px solid #334155;border-radius:12px;padding:1.5rem;transition:transform .2s,border-color .2s}
+.card:hover{transform:translateY(-2px);border-color:#38bdf8}
+.card h3{font-size:1.25rem;margin-bottom:.5rem}
+.card .badge{display:inline-block;padding:2px 10px;border-radius:20px;font-size:.75rem;font-weight:600;margin-right:.4rem;margin-bottom:.4rem}
+.badge-detection{background:#2563eb;color:#bfdbfe}
+.badge-dfir{background:#dc2626;color:#fecaca}
+.badge-intel{background:#0891b2;color:#cffafe}
+.badge-hardening{background:#16a34a;color:#bbf7d0}
+.badge-vuln{background:#ea580c;color:#fed7aa}
+.badge-hunting{background:#f59e0b;color:#fef3c7}
+.badge-iac{background:#6366f1;color:#e0e7ff}
+.badge-converter{background:#7c3aed;color:#ddd6fe}
+.badge-lab{background:#ef4444;color:#fecaca}
+.card p{color:#94a3b8;margin:.8rem 0;font-size:.9rem}
+.card a{display:inline-block;color:#38bdf8;text-decoration:none;font-weight:600;margin-right:1rem;font-size:.85rem}
+.card a:hover{text-decoration:underline}
+footer{text-align:center;margin-top:3rem;color:#475569;font-size:.85rem}
+footer a{color:#6b7280}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>🛡️ Open Source Security Toolkit</h1>
+<p class="subtitle">9 production-ready security tools — detection engineering, threat intelligence, DFIR, hardening, pentest lab.</p>
+
+<div class="grid">
+<div class="card">
+<h3>🧭 Detection-Rules <span class="badge badge-detection">detection</span></h3>
+<p>836 rules across 9 platforms with 152 MITRE ATT&CK techniques. Sigma, Elastic, Splunk, Sentinel, Wazuh, Carbon Black, CrowdStrike, SentinelOne, Falco.</p>
+<a href="https://github.com/wahidhendrawan/Detection-Rules">GitHub →</a>
+<a href="https://wahidhendrawan.github.io/Detection-Rules/">Live Docs →</a>
+</div>
+
+<div class="card">
+<h3>🛡️ PagerWesi <span class="badge badge-hardening">hardening</span></h3>
+<p>Cross-platform security baseline auditing — Linux, macOS, Windows, AWS, Azure, GCP, K8s, Docker, Terraform. HTML reports, CIS compliance scoring.</p>
+<a href="https://github.com/wahidhendrawan/PagerWesi">GitHub →</a>
+<a href="https://wahidhendrawan.github.io/PagerWesi/">Live Docs →</a>
+</div>
+
+<div class="card">
+<h3>🔁 YARA Sigma Studio <span class="badge badge-converter">converter</span></h3>
+<p>Convert YARA rules to Sigma + 7 native SIEM/EDR backends. IOC classification, MITRE ATT&CK tagging, CLI, Web UI, Docker Compose.</p>
+<a href="https://github.com/wahidhendrawan/yara-sigma-webui">GitHub →</a>
+<a href="https://wahidhendrawan.github.io/yara-sigma-webui/">Live Docs →</a>
+</div>
+
+<div class="card">
+<h3>🛰️ ThreatDock <span class="badge badge-intel">intelligence</span></h3>
+<p>Centralized threat intelligence & security operations. MISP, Slack/Teams/Telegram webhooks, IOC export (JSON/CSV/STIX), 25+ integrations.</p>
+<a href="https://github.com/wahidhendrawan/ThreatDock">GitHub →</a>
+<a href="https://wahidhendrawan.github.io/ThreatDock/">Live Docs →</a>
+</div>
+
+<div class="card">
+<h3>🔎 Forensis <span class="badge badge-dfir">dfir</span></h3>
+<p>Full DFIR platform — log & network analyzers, memory triage, Sigma/YARA correlation, MFA, Velociraptor-ready, Celery async workers.</p>
+<a href="https://github.com/wahidhendrawan/Forensis">GitHub →</a>
+<a href="https://wahidhendrawan.github.io/Forensis/">Live Docs →</a>
+</div>
+
+<div class="card">
+<h3>🎯 GolekThreat <span class="badge badge-hunting">hunting</span></h3>
+<p>Threat hunting playbook engine. Repeatable hunts, evidence tracking, ATT&CK Navigator export, Markdown reports, Docker Compose.</p>
+<a href="https://github.com/wahidhendrawan/GolekThreat">GitHub →</a>
+<a href="https://wahidhendrawan.github.io/GolekThreat/">Live Docs →</a>
+</div>
+
+<div class="card">
+<h3>📊 VulnBoard <span class="badge badge-vuln">vulnerability</span></h3>
+<p>VAPT Report Dashboard. Import Burp, ZAP, Nmap, Nessus, Nuclei, Qualys. PDF reports — OWASP, PCI DSS, NIST CSF, ISO 27001 frameworks.</p>
+<a href="https://github.com/wahidhendrawan/VulnBoard">GitHub →</a>
+<a href="https://wahidhendrawan.github.io/VulnBoard/">Live Docs →</a>
+</div>
+
+<div class="card">
+<h3>🏗️ IaC WebApps <span class="badge badge-iac">infrastructure</span></h3>
+<p>Visual Multi-IaC designer — Terraform, OpenTofu, Pulumi, Helm. AI Copilot (DeepSeek/GPT), cost estimator, DevSecOps scanner.</p>
+<a href="https://github.com/wahidhendrawan/iac-webapps">GitHub →</a>
+<a href="https://wahidhendrawan.github.io/iac-webapps/">Live Docs →</a>
+</div>
+
+<div class="card">
+<h3>🐳 DVWA Compose <span class="badge badge-lab">pentest lab</span></h3>
+<p>DVWA Docker Compose with Nginx TLS. Multi-arch (x86_64 + ARM). Difficulty toggle, optional Wazuh SIEM agent for security training.</p>
+<a href="https://github.com/wahidhendrawan/dvwa-compose">GitHub →</a>
+<a href="https://wahidhendrawan.github.io/dvwa-compose/">Live Docs →</a>
+</div>
+</div>
+
+<footer>
+<p>Built by <a href="https://wahidhendrawan.onrender.com/">Wahid Hendrawan</a> · 9 tools · All MIT/GPL-3.0 licensed · 2024–2026</p>
+<p><a href="https://www.linkedin.com/in/wahid-hendrawan-398385176/">LinkedIn</a> · <a href="https://github.com/wahidhendrawan">GitHub</a></p>
+</footer>
+</div>
+</body>
+</html>
