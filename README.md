@@ -25,8 +25,8 @@
   <br/>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=wahidhendrawan&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahidhendrawan&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahidhendrawan&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahidhendrawan&amp;theme=tokyonight" alt="Top Languages" height="180"/>
   </p>
 </div>
 
