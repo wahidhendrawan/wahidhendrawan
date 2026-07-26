@@ -142,6 +142,8 @@
 | 🛡️ Security Projects | **Detection · DFIR · Intel · Hardening · Pentest** |
 | 📏 Detection Rules | **836 rules · 9 platforms** |
 | 🗺️ MITRE ATT&CK | **152 techniques mapped** |
+| 🔒 All repos | **OpenSSF Scorecard · Gitleaks · Dependabot · Pre-commit** |
+| 🏆 PyPI Package | **yar2sig** (`pip install yar2sig`) |
 | 🌐 Languages | Python · TypeScript · JavaScript · Shell |
 
 </div>
