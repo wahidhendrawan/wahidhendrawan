@@ -53,7 +53,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3>🛡️ PagerWesi</h3>
-      <p>Cross-platform security baseline auditing and controlled remediation — Linux, macOS, Windows, FreeBSD, AWS, Azure, GCP, K8s, Docker, Terraform. HTML reports, CIS compliance scoring.</p>
+      <p>Cross-platform security baseline auditing and controlled remediation — Linux, macOS, Windows, FreeBSD, AWS, Azure, GCP, K8s, Docker, Terraform. 64 controls, JSON/SARIF/HTML reports for hosts and clouds alike, CIS-inspired compliance scoring.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/PagerWesi"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="PagerWesi" /></a>
         <a href="https://wahidhendrawan.github.io/PagerWesi/"><img src="https://img.shields.io/badge/Live_Docs-16A34A?style=for-the-badge" alt="Documentation" /></a>
@@ -61,7 +61,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>🧭 Detection-Rules</h3>
-      <p>836 rules, 9 platforms, 152 MITRE ATT&CK techniques. Sigma · Elastic · Splunk · Sentinel · Wazuh · Carbon Black · CrowdStrike · SentinelOne · Falco.</p>
+      <p>836 rules, 9 platforms, 152 MITRE ATT&CK techniques, release v1.5.0. Sigma · Elastic · Splunk · Sentinel · Wazuh · Carbon Black · CrowdStrike · SentinelOne · Falco. Feeds GolekThreat playbooks and Forensis correlation.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/Detection-Rules"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Detection-Rules" /></a>
         <img src="https://img.shields.io/badge/Detection_Engineering-2563EB?style=for-the-badge" alt="Detection engineering" />
@@ -69,7 +69,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>🔁 YARA Sigma Studio</h3>
-      <p>Convert YARA rules to Sigma detections and native SIEM/EDR queries. IOC classification, MITRE ATT&CK tagging, CLI, API, Docker Compose.</p>
+      <p>Convert YARA rules to Sigma detections and 7 native SIEM/EDR query backends, or reverse Sigma to YARA. IOC classification, ATT&CK tagging, export straight into the Detection-Rules layout, CLI, API, Docker Compose.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/yara-sigma-webui"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="YARA Sigma Studio" /></a>
         <img src="https://img.shields.io/badge/YARA_to_Sigma-7C3AED?style=for-the-badge" alt="YARA to Sigma" />
@@ -87,7 +87,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>🔎 Forensis</h3>
-      <p>DFIR platform — log & network analyzers, memory triage, Sigma/YARA correlation engine, MFA, Velociraptor integration-ready.</p>
+      <p>DFIR platform — log & network analyzers, memory triage, Sigma/YARA correlation, MFA. PCAP flows, log scanning and Sigma matching run in native Rust engines verified against the Python reference.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/Forensis"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Forensis" /></a>
         <img src="https://img.shields.io/badge/DFIR-DC2626?style=for-the-badge" alt="DFIR" />
@@ -95,7 +95,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>🎯 GolekThreat</h3>
-      <p>Threat hunting playbook engine. Repeatable hunts, evidence tracking, ATT&CK Navigator JSON export, analyst-ready Markdown reports.</p>
+      <p>Threat hunting playbook engine. Repeatable hunts, evidence tracking, ATT&CK coverage, Markdown reports, viewer/analyst/admin accounts, and Sigma rules from Detection-Rules imported as playbooks.</p>
       <p>
         <a href="https://github.com/wahidhendrawan/GolekThreat"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="GolekThreat" /></a>
         <img src="https://img.shields.io/badge/Threat_Hunting-F59E0B?style=for-the-badge" alt="Threat Hunting" />
@@ -142,8 +142,8 @@
 | 🛡️ Security Projects | **Detection · DFIR · Intel · Hardening · Pentest** |
 | 📏 Detection Rules | **836 rules · 9 platforms** |
 | 🗺️ MITRE ATT&CK | **152 techniques mapped** |
-| 🔒 All repos | **OpenSSF Scorecard · Gitleaks · Dependabot · Pre-commit** |
-| 🌐 Languages | Python · TypeScript · JavaScript · Shell |
+| 🔒 All repos | **OpenSSF Scorecard · CodeQL · Gitleaks · Dependabot · Pre-commit** |
+| 🌐 Languages | Python · Rust · TypeScript · JavaScript · Shell |
 
 </div>
 
@@ -199,6 +199,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
